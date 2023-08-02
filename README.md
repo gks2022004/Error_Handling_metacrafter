@@ -9,6 +9,9 @@ This program is a simple contract written in Solidity, a programming language us
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/ 
 Then compile this required file, and then deploy it.
 
+##License
+This project is licensed under the MIT License - see https://github.com/gks2022004/Error_Handling_metacrafter/blob/main/LICENSE for details
+
 
 
 
