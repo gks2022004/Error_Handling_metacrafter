@@ -26,7 +26,7 @@ If assertion fails, the transaction is reverted without a custom message.
 ### withdrawRevert function
 
 Uses an if statement to check the balance condition.
-If balance is insufficient, it reverts with a custom error message.
+If balance is insufficient, it reverts with a custom error message, and also returns the remaining gas back to the caller.
 Otherwise, decrements the balance to withdraw the tokens. 
 
 ## Execution
